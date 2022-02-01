@@ -1,0 +1,94 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+
+.back {
+  background-image: url("./image/pattern-background-desktop.svg");
+  position: fixed;
+  height: 436px;
+  width: 100%;
+}
+
+.wid {
+  text-align: center;
+  width: 80%;
+
+  padding: 0px 30px 30px 30px;
+}
+
+.new {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  line-height: 300%;
+  font-size: 150%;
+  padding: 0px 110px;
+}
+
+.fcol {
+  margin-top: 6%;
+  margin-left: 37.5%;
+  width: 25%;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.fcol img {
+  border-radius: 8px 8px 0px 0px;
+}
+
+.change {
+  background-color: rgb(255, 255, 255);
+  border-radius: 0px 0px 8px 8px;
+  margin-top: -1%;
+}
+
+.lmov {
+  margin-left: 8%;
+  padding: 0% 0% 4% 4%;
+}
+
+.colr {
+  color: gray;
+}
+
+.llmov {
+  margin-left: 30%;
+  margin-top: -17.5%;
+  line-height: 140%;
+  padding-bottom: 10%;
+}
+
+.l2mov {
+  margin-left: 57%;
+  margin-top: -12%;
+}
+
+.bclor {
+  background-color: blue;
+  padding: 2% 10%;
+  width: 70%;
+  height: 5%;
+  border-radius: 4px;
+  border: none;
+  color: antiquewhite;
+}
+
+.lshift {
+  margin-left: 22.4%;
+  margin-bottom: 4%;
+}
+
+.gc {
+  margin-bottom: 10%;
+}
+
+.gc a {
+  text-decoration: none;
+  color: gray;
+  padding: 5% 39% 5% 39%;
+  font-size: 100%;
+}
+
+.bmo {
+  padding-bottom: 1px;
+}
